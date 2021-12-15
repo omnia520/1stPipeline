@@ -14,9 +14,9 @@ The Company lack on knowledge about their clients shopping behaviour, also the i
 
 ## Arquitecture 
 
-![Test Image 2](https://github.com/omnia520/1stPipeline/blob/main/Arquitectura%20EAFIT.png)
+![Test Image 2](https://github.com/omnia520/ProjectSapiencia/blob/main/InfrastructureDeployment/Arquitectura%20EAFIT.png)
 
-The idea was pull to the information from the server of the company, save it, make some cleaning, and then start using it to create a machine learning models that understand better the client and other model that predict the sales of the company. Finally show the key findings on a business intelligence board.
+The idea was pull to the information from the server of the company, save it, make some cleaning, and then start using it to create a machine learning models that understand better the client and other model that predict the sales of the company. Finally show the key findings on a dashboard.
 
 ## Infrastructure as Code
 
@@ -25,14 +25,14 @@ To make more easy the use of this work, we create some Json file, that can be us
 ## The Model
 To have a better understanding of the client, It's need to made a segmentation of the clients.
 
-![Test Image 1](https://github.com/omnia520/ProjectSapiencia/blob/main/Flujo.png)
+![Test Image 1](https://github.com/omnia520/ProjectSapiencia/blob/main/Images/Flujo.png)
 
 ## Results
 
-We present the results of the model on a BI Board.
+We present the results of the model on a BI dashboard.
 
 
-![Test Image 3](https://github.com/omnia520/ProjectSapiencia/blob/main/b1.png)
+![Test Image 3](https://github.com/omnia520/ProjectSapiencia/blob/main/Images/b1.png)
 
 ## Key Findings
 
