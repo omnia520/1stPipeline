@@ -25,4 +25,4 @@ To have a better understanding of the client, It's need to made a segmentation o
 We present the results of the model on a BI Board.
 
 
-![Test Image 3]
+![Test Image 3](https://github.com/omnia520/ProjectSapiencia/blob/main/b1.png)
