@@ -26,3 +26,7 @@ We present the results of the model on a BI Board.
 
 
 ![Test Image 3](https://github.com/omnia520/ProjectSapiencia/blob/main/b1.png)
+
+## Key Findings
+
+* 127 customers identified
