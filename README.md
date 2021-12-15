@@ -30,3 +30,9 @@ We present the results of the model on a BI Board.
 ## Key Findings
 
 * 127 customers identified
+* Top 5 categories with the most orders:
+Engineering and Research
+Surveillance and industrial security
+Storage and packaging
+Toilet, Cafeteria and Office
+Food and drinks
