@@ -1,6 +1,13 @@
 # Industrialization of a Data Science Project, creating a cloud infrastructure on Azure.
 Project to upload Data from a SQL server to the cloud for a industrial supply provide, to then create Machine Learning Models to understand trends, and behaviors of the clients.
 
+# Team
+* Ricardo Ruiz
+* Daniel Patiño
+* Miguel Cano
+* Rick Huffington
+* John Jimenez
+
 # First thing first
 ## The Problem
 The Company lack on knowledge about their clients shopping behaviour, also the information is hard to use, bacause in locate in a transact database.
@@ -30,9 +37,14 @@ We present the results of the model on a BI Board.
 ## Key Findings
 
 * 127 customers identified
-* Top 5 categories with the most orders:<br />
+* the average customer seniority is 1.2 years<br />
+* Top 5 categories:<br />
 Engineering and Research<br />
 Surveillance and industrial security<br />
 Storage and packaging<br />
 Toilet, Cafeteria and Office<br />
 Food and drinks<br />
+
+## Recomendation
+
+To have a better understanding of the work see the presentation, the file is call Presentacion_Grupo02.pdf is in the main.
