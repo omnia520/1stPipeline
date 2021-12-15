@@ -47,4 +47,4 @@ Food and drinks<br />
 
 ## Recomendation
 
-To have a better understanding of the work see the presentation, the file is call Presentacion_Grupo02.pdf, is in the main.
+To have a better understanding of the work see the presentation, the file is call Presentacion_Grupo02.pdf, is in the folder Presentation.
